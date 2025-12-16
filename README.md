@@ -14,17 +14,18 @@ The interactive dashboard can be accessed using the public Power BI link below:
 
 ## 🖼️ Dashboard Preview
 
-### 💡 Home view
-(images/key_insights.png)
-
-### 🏠 Executive Overview
+### 🏠 Home Page / Executive Overview
 ![Home Page / Executive Overview](image/home_page.png)
+
+### 📊 Executive Analysis
+![Executive Analysis](image/executive-analysis.png)
 
 ### 📈 Drivers and Segment Risk
 ![Drivers and Segment Risk](image/drivers_segment_risk.png)
 
 ### ⚠️ Attrition Risk and Action
 ![Attrition Risk and Action](image/attrition_risk_action.png)
+
 
 ## 🧭 Project Overview
 The analysis examines attrition patterns across department level trends, job roles, tenure behaviour, age distribution, gender balance, income tiers, satisfaction metrics, and workload indicators such as overtime. Consolidating these dimensions into a single reporting environment enables leadership to identify structural risks often missed in traditional HR reporting.
