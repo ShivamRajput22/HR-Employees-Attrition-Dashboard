@@ -15,16 +15,16 @@ The interactive dashboard can be accessed using the public Power BI link below:
 ## 🖼️ Dashboard Preview
 
 ### 🏠 Home Page / Executive Overview
-![Home Page / Executive Overview](image/home_page.png)
+![Home Page / Executive Overview](images/home_page.png)
 
 ### 📊 Executive Analysis
-![Executive Analysis](image/executive-analysis.png)
+![Executive Analysis](images/executive-analysis.png)
 
 ### 📈 Drivers and Segment Risk
-![Drivers and Segment Risk](image/drivers_segment_risk.png)
+![Drivers and Segment Risk](images/drivers_segment_risk.png)
 
 ### ⚠️ Attrition Risk and Action
-![Attrition Risk and Action](image/attrition_risk_action.png)
+![Attrition Risk and Action](images/attrition_risk_action.png)
 
 
 ## 🧭 Project Overview
