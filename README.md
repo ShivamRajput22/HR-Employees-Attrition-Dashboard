@@ -14,7 +14,7 @@ The interactive dashboard can be accessed using the public Power BI link below:
 
 ## 🖼️ Dashboard Preview
 
-### 🏠 Home Page / Executive Overview
+### 🏠 Home Page
 ![Home Page / Executive Overview](images/home_page.png)
 
 ### 📊 Executive Analysis
