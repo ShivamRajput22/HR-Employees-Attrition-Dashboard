@@ -1,4 +1,4 @@
-# 📊 HR Employees Attrition Dashboard
+# 📊 HR Employee Attrition Dashboard
 
 ## 🎯 Project Aim
 This project delivers a strategic HR Attrition Dashboard designed to provide leadership with a clear, evidence backed understanding of workforce stability and retention risk. The aim was to convert fragmented HR data into a practical decision support tool that highlights where attrition is increasing, what is driving it, and where focused action will deliver the greatest impact.
